@@ -153,7 +153,7 @@ function App() {
             <p>
               This prototype classifies text into Real/Human, Fake/Human,
               Real/AI, or Fake/AI categories. Its current backend uses a tuned
-              TF-IDF and Multinomial Naive Bayes pipeline.
+              TF-IDF and Multinomial Logistic Regression pipeline.
             </p>
           </div>
         </section>
